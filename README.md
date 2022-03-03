@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DariusMuscalu
+- 👋 Hi, I’m Darius
 - 👀 I’m interested in C++ Frameworks, Unity, Web Development, Front-End Engineering and UI / UX
 - 🌱 I’m currently learning JavaScript, ReactJS and Flutter
 - 💞️ I’m looking to collaborate on C++, Java, Web Projects

@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Darius
-- 👀 I’m interested in C++ Frameworks, Unity, Web Development, Front-End Engineering and UI / UX
-- 🌱 I’m currently learning JavaScript, ReactJS and Flutter
-- 💞️ I’m looking to collaborate on C++, Java, Web Projects
-- 📫 How to reach me on discord: Dariuss#2151
+👋 Hi, I’m Darius Muscalu
+👀 I specialize in Flutter and Angular development, with a strong background in front-end engineering.
+🌱 Currently, I'm diving deeper into advanced JavaScript concepts and honing my skills in Angular for robust web development.
+💼 I have hands-on experience as a Flutter Developer, contributing to dynamic projects and creating engaging user interfaces.
+💡 My interests include exploring microservices architecture, Kafka, and other related technologies, as showcased in my experience at Visual Space and Flutter Motion SRL.
+💞️ I’m open to collaborations on projects involving Flutter, Angular, and technologies like microservices and Kafka.
+📫 Reach me on Discord: Dariuss#2151
 
-<!---
-DariusMuscalu/DariusMuscalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's build something amazing together!

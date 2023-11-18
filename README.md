@@ -4,6 +4,5 @@
 - 💼 I have hands-on experience as a Flutter Developer, contributing to dynamic projects and creating engaging user interfaces.
 - 💡 My interests include exploring microservices architecture, Kafka, and other related technologies.
 - 💞️ I’m open to collaborations on projects involving Flutter, Angular, and technologies like microservices and Kafka.
-- 📫 Reach me on Discord: Dariuss#2151
 
 Let's build something amazing together!
